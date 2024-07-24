@@ -51,7 +51,7 @@ button:hover {
 /* Add media query for smaller screens */
 @media (max-width: 480px) {
     .calculator {
-        padding: 20px;
+        padding: 50px;
     }
     button {
         padding: 20px;
