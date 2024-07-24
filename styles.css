@@ -49,7 +49,7 @@ button:hover {
 }
 
 /* Add media query for smaller screens */
-/* @media (max-width: 480px) {
+@media (max-width: 480px) {
     .calculator {
         padding: 10px;
     }
@@ -60,4 +60,4 @@ button:hover {
     input[type="text"] {
         font-size: 18px;
     }
-} */
+}
