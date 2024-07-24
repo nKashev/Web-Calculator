@@ -22,7 +22,7 @@ body {
 input[type="text"] {
     width: 100%;
     margin-bottom: 10px;
-    padding: 10px;
+    padding: 20px;
     font-size: 20px;
     border: 1px solid #ccc;
     border-radius: 5px;
@@ -36,8 +36,8 @@ input[type="text"] {
 }
 
 button {
-    padding: 15px;
-    font-size: 18px;
+    padding: 20px;
+    font-size: 20px;
     background-color: #ddd;
     border: none;
     border-radius: 5px;
@@ -51,13 +51,13 @@ button:hover {
 /* Add media query for smaller screens */
 @media (max-width: 480px) {
     .calculator {
-        padding: 10px;
+        padding: 20px;
     }
     button {
-        padding: 10px;
-        font-size: 16px;
+        padding: 20px;
+        font-size: 20px;
     }
     input[type="text"] {
-        font-size: 18px;
+        font-size: 20px;
     }
 }
